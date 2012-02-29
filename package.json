@@ -1,0 +1,21 @@
+{
+  "author": "Andrew Dodson",
+  "name": "dropfile-browser",
+  "description": "dropfile npm package for browsers",
+  "version": "0.0.1-1",
+  "homepage": "https://github.com/MrSwitch/dropfile",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type":"git",
+    "url": "http://github.com/kapouer/dropfile-browser.git"
+  },
+  "directories": {
+    "javascripts": "./javascripts",
+    "example": "./examples"
+  }
+}
